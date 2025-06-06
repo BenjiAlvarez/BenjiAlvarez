@@ -13,7 +13,7 @@ Hello World I'm BenjiAlvarez From Indonesian
 <!-- Snake Animation -->
 <div align="center">
     
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/BenjiAlvarez/BenjiAlvarez/output/snake.svg" alt="Snake animation" />
 </div>
 
 
