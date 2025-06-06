@@ -11,10 +11,8 @@ Hello World I'm BenjiAlvarez From Indonesian
 ![](https://github-readme-stats.vercel.app/api?username=BenjiAlvarez&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=BenjiAlvarez&theme=highcontrast&hide_border=false)<br/>
 <!-- Snake Animation -->
-<div align="center">
-    
 <img src="https://raw.githubusercontent.com/BenjiAlvarez/BenjiAlvarez/output/snake.svg" alt="Snake animation" />
-</div>
+
 
 
 ## 🏆 GitHub Trophies
