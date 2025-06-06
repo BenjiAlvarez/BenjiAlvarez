@@ -7,6 +7,8 @@ Hello World I'm BenjiAlvarez From Indonesian
 
 # 💻 Tech Stack:
 ![ReScript](https://img.shields.io/badge/rescript-%2314162c?style=flat&logo=rescript&logoColor=e34c4c) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=flat&logo=ovh&logoColor=#123F6D) ![Phoenix Framework](https://img.shields.io/badge/phoenixframework-%23FD4F00.svg?style=flat&logo=phoenixframework&logoColor=black) ![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=flat&logo=quasar&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+</div>
 <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BenjiAlvarez/BenjiAlvarez/output/pacman-contribution-graph.svg">
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BenjiAlvarez&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
