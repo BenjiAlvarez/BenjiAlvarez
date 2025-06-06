@@ -10,7 +10,6 @@ Hello World I'm BenjiAlvarez From Indonesian
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BenjiAlvarez&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=BenjiAlvarez&theme=highcontrast&hide_border=false)<br/>
-![](https://www.dmca.com/r/1qerm1y)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjiAlvarez&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
@@ -24,5 +23,6 @@ Hello World I'm BenjiAlvarez From Indonesian
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bagibagi.co/BenjiAlvarez) 
 
+![](https://www.dmca.com/Protection/Status.aspx?ID=af3d1d88-24af-4b46-b283-b3cd99c65af1&refurl=https://github.com/BenjiAlvarez)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
