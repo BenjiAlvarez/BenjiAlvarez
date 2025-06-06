@@ -23,6 +23,10 @@ Hello World I'm BenjiAlvarez From Indonesian
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bagibagi.co/BenjiAlvarez) 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+</div>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
