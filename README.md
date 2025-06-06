@@ -7,7 +7,7 @@ Hello World I'm BenjiAlvarez From Indonesian
 
 # 💻 Tech Stack:
 ![ReScript](https://img.shields.io/badge/rescript-%2314162c?style=flat&logo=rescript&logoColor=e34c4c) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=flat&logo=ovh&logoColor=#123F6D) ![Phoenix Framework](https://img.shields.io/badge/phoenixframework-%23FD4F00.svg?style=flat&logo=phoenixframework&logoColor=black) ![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=flat&logo=quasar&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BenjiAlvarez/BenjiAlvarez/output/pacman-contribution-graph.svg">
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BenjiAlvarez&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=BenjiAlvarez&theme=highcontrast&hide_border=false)<br/>
@@ -25,9 +25,5 @@ Hello World I'm BenjiAlvarez From Indonesian
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bagibagi.co/BenjiAlvarez) 
 
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BenjiAlvarez/BenjiAlvarez/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BenjiAlvarez/BenjiAlvarez/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BenjiAlvarez/BenjiAlvarez/output/pacman-contribution-graph.svg">
-</picture>
+  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
