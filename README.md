@@ -11,6 +11,8 @@ Hello World I'm BenjiAlvarez From Indonesian
 ![](https://github-readme-stats.vercel.app/api?username=BenjiAlvarez&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=BenjiAlvarez&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjiAlvarez&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://www.dmca.com/r/1qerm1y)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BenjiAlvarez&theme=radical&no-frame=false&no-bg=true&margin-w=4)
