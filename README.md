@@ -10,8 +10,11 @@ Hello World I'm BenjiAlvarez From Indonesian
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BenjiAlvarez&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=BenjiAlvarez&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjiAlvarez&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+</div>
 
 
 ## 🏆 GitHub Trophies
@@ -23,10 +26,5 @@ Hello World I'm BenjiAlvarez From Indonesian
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bagibagi.co/BenjiAlvarez) 
 
-<!-- Snake Animation -->
-<div align="center">
-    
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
-</div>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
