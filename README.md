@@ -10,7 +10,11 @@ Hello World I'm BenjiAlvarez From Indonesian
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
 
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BenjiAlvarez/BenjiAlvarez/output/pacman-contribution-graph.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BenjiAlvarez/BenjiAlvarez/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BenjiAlvarez/BenjiAlvarez/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BenjiAlvarez/BenjiAlvarez/output/pacman-contribution-graph.svg">
+</picture>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BenjiAlvarez&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
