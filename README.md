@@ -23,6 +23,6 @@ Hello World I'm BenjiAlvarez From Indonesian
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bagibagi.co/BenjiAlvarez) 
 
-![](https://www.dmca.com/Protection/Status.aspx?ID=af3d1d88-24af-4b46-b283-b3cd99c65af1&refurl=https://github.com/BenjiAlvarez)
+<meta name='dmca-site-verification' content='MzV3czJHWEp6bmtla256aDgvY3BEdz090' />
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
